@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         MaterialsModeling@NCL
-        Research Group
+        
       image:
         filename: welcome.jpg
       text: |
