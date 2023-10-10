@@ -10,8 +10,7 @@ sections:
       title: |
         MaterialsModeling@NCL
         
-      image:
-        filename: welcome.jpg
+      
       text: |
         <br>
         
