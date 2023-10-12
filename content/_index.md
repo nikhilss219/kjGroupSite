@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **MaterialsModeling@NCL** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties. 
 
   - block: collection
     content:
