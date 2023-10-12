@@ -11,22 +11,17 @@ authors:
 bio: My research interests include heterogenous catalysis, solid state hydrogen
   storage.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational heterogeneous catalysis
+  - In silico design of catalysts
+  - Solid-state hydrogen storage
+  - Machine learning-based approaches to screen chemical space
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:n.wilson@ncl.res.in
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:k.joshi@ncl.res.in
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=IzJrY6UAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -45,3 +40,14 @@ user_groups:
 last_name: Wu
 first_name: Alice
 ---
+*Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. Further, we explore ML-based methods to screen the chemical space for various materials with targeted properties.* 
+
+Following are the themes the group is currently involved extensively in:
+
+***Computational heterogeneous catalysis:*** We investigate industrially important reactions to uncover the principles governing the reactivity of catalysts to design better catalysts.
+
+***In silico design of catalysts*** for various socially/environmentally relevant problems like CO2 to value-added products, gas to liquid etc. 
+
+***Solid-state hydrogen storage:*** Hydrogen is the future fuel if the problem of storing it at ambient conditions could be tackled. We are working towards developing ML-based models to predict alloys suitable for solid-state hydrogen storage. 
+
+***Machine learning-based approaches*** to screen chemical space or to predict the ground state structure
