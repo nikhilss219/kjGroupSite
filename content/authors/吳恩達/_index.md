@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Kavita Joshi
+  - 吳恩達
 bio: My research interests include heterogenous catalysis, solid state hydrogen
   storage.
 interests:
