@@ -1,7 +1,7 @@
 ---
 title: Kavita Joshi
 role: Principal Scientist
-avatar_filename: https://picsum.photos/200/300
+avatar_filename: avatar.jpg
 organizations:
   - name: CSIR National Chemical Laboratory
     url: ""
