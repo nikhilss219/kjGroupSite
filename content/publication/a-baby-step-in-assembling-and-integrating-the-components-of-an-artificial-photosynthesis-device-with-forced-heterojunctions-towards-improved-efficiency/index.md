@@ -3,7 +3,7 @@ title: " A baby step in assembling and integrating the components of an
   artificial photosynthesis device with forced heterojunctions towards improved
   efficiency"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Kranti N Salgaonkar
   - Himanshu Bajpai
