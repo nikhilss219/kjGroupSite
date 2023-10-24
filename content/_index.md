@@ -31,6 +31,7 @@ sections:
       text: <br>
         
         Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties.
+        {{< gallery album="homealbum" resize_options="250x250" >}}
     design:
       columns: '2'
       # background:
