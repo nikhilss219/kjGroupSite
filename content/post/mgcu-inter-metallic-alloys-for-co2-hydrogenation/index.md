@@ -6,7 +6,7 @@ featured: false
 categories:
   - DFT
 image:
-  filename: featured
+  filename: co2-mgcu.png
   focal_point: Smart
   preview_only: false
 ---
