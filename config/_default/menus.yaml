@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Research
-    url: category/research
+    url: category/DFT
     weight: 40
   - name: Publications
     url: publication
