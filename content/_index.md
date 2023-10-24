@@ -20,7 +20,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: CO2-MgCu.png
             filters:
               brightness: 0.7
           position: right
@@ -30,7 +30,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Shweta_Mehta_abstract_image.png
             filters:
               brightness: 0.7
           position: center
@@ -40,7 +40,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: shweta_viva.jpg
             filters:
               brightness: 0.5
           position: center
