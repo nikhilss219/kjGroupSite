@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Research
-    identifier: category
+    identifier: Research
     weight: 40
   - name: DFT
     parent: Research
