@@ -5,7 +5,7 @@ title: Meema Bhati
 # Full Name (for SEO)
 first_name: Meema
 last_name: Bhati
-
+weight: 50
 # Is this the primary user of the site?
 superuser: true
 

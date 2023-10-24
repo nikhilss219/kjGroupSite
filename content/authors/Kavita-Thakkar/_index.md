@@ -5,7 +5,7 @@ title: Kavita Thakkar
 # Full Name (for SEO)
 first_name: Kavita
 last_name: Thakkar
-
+weight: 40
 # Is this the primary user of the site?
 superuser: true
 

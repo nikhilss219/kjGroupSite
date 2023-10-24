@@ -5,7 +5,7 @@ title: Piyush Maharana
 # Full Name (for SEO)
 first_name: Piyush 
 last_name: Maharana
-
+weight: 70
 # Is this the primary user of the site?
 superuser: true
 

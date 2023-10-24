@@ -5,7 +5,7 @@ title: Sheena Agarwal
 # Full Name (for SEO)
 first_name: Sheena
 last_name: Agarwal
-
+weight: 100
 # Is this the primary user of the site?
 superuser: true
 

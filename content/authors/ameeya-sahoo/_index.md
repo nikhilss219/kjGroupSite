@@ -5,7 +5,7 @@ title: Ameeya Sahoo
 # Full Name (for SEO)
 first_name: Ameeya
 last_name: Sahoo
-
+weight: 20
 # Is this the primary user of the site?
 superuser: true
 

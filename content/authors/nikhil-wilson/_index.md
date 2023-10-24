@@ -5,7 +5,7 @@ title: Nikhil Wilson
 # Full Name (for SEO)
 first_name: Nikhil
 last_name: Wilson
-
+weight: 60
 # Is this the primary user of the site?
 superuser: true
 
