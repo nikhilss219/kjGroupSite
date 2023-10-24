@@ -58,29 +58,6 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: markdown
-    content:
-      title: 
-      subtitle: ''
-      text: <br>
-        
-        Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties.
-
-      {{< gallery album="homealbum" resize_options="250x250" >}}
-    design:
-      columns: '2'
-      # background:
-      #   image: 
-      #     filename: coders.jpg
-      #     filters:
-      #       brightness: 1
-      #     parallax: false
-      #     position: center
-      #     size: cover
-      #     text_color_light: true
-      # spacing:
-      #   padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
   # - block: hero
   #   content:
   #     title: |
