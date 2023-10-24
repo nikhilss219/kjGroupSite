@@ -21,8 +21,8 @@ sections:
         background:
           image:
             filename: CO2-MgCu.png
-            filters:
-              brightness: 0.7
+            # filters:
+            #   brightness: 0.7
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -31,8 +31,8 @@ sections:
         background:
           image:
             filename: Shweta_Mehta_abstract_image.png
-            filters:
-              brightness: 0.7
+            # filters:
+            #   brightness: 0.7
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
@@ -41,8 +41,8 @@ sections:
         background:
           image:
             filename: shweta_viva.jpg
-            filters:
-              brightness: 0.5
+            # filters:
+            #   brightness: 0.5
           position: center
           color: '#333'
         link:
@@ -52,12 +52,12 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '100'
+      is_fullscreen: false
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 10
   # - block: hero
   #   content:
   #     title: |
