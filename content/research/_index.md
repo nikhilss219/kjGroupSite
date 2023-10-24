@@ -8,30 +8,23 @@ title: Research
 banner:
   caption: ''
   image: ''
-
-content:
+sections:
   - block: collection
-    content:
-      title:'hello' 
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-design:
-  # Choose a listing view
-  view: compact
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
----
+      content:
+        title: Latest News
+        subtitle:
+        text:
+        count: 5
+        filters:
+          author: ''
+          category: ''
+          exclude_featured: false
+          publication_type: ''
+          tag: ''
+        offset: 0
+        order: desc
+        page_type: post
+      design:
+        view: card
+        columns: '1'
 ---
