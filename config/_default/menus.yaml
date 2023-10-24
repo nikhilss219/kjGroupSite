@@ -13,14 +13,17 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Research
+    identifier: category
+    weight: 40
   - name: DFT
     parent: Research
     url: category/DFT
-    weight: 40
+    weight: 10
   - name: ML
     parent: Research
     url: category/MachineLearning
-    weight: 50
+    weight: 20
   - name: Publications
     url: publication
     weight: 60
