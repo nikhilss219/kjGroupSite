@@ -8,9 +8,6 @@ sections:
   - block: markdown
     content:
       title: Materials Modeling group @NCL
-      subtitle: ''
-      text: 
-      design:
       columns: '1'
   - block: slider
     content:
