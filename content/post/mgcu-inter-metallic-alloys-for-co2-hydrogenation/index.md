@@ -3,6 +3,8 @@ title: MgCu inter-metallic alloys for CO2 hydrogenation
 date: 2023-10-24T12:28:59.108Z
 draft: false
 featured: false
+categories:
+  - projects
 image:
   filename: featured
   focal_point: Smart
