@@ -58,13 +58,13 @@ sections:
             url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '100'
       # Make the slides full screen within the browser window?
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 10
   - block: markdown
     content:
       title: 
