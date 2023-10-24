@@ -5,6 +5,7 @@ draft: false
 featured: false
 categories:
   - DFT
+view: card
 image:
   filename: co2-mgcu.png
   focal_point: Smart
