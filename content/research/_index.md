@@ -12,13 +12,13 @@ banner:
 content:
   - block: collection
     content:
-      title: 
+      title:'hello' 
       subtitle:
       text:
       count: 5
       filters:
         author: ''
-        category: 'projects'
+        category: ''
         exclude_featured: false
         publication_type: ''
         tag: ''
