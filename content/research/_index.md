@@ -16,7 +16,7 @@ content:
     folders:
       - post
     tag: ''
-    category: 'projects'
+    categories: 'projects'
     publication_type: ''
     author: ''
     featured_only: false
