@@ -14,8 +14,7 @@ main:
     url: people
     weight: 30
   - name: Research
-    parent: categories
-    url: categories/projects/
+    url: project
     weight: 40
   - name: Publications
     url: publication
