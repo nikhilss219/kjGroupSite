@@ -10,27 +10,24 @@ banner:
   image: ''
 
 content:
-  # Filter content to display
-  filters:
-    # The folders to display content from
-    folders:
-      - post
-    tag: ''
-    categories: 'projects'
-    publication_type: ''
-    author: ''
-    featured_only: false
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 10
-  # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
-  offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  - block: collection
+    content:
+      title: 
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: 'projects'
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
 design:
   # Choose a listing view
   view: compact
