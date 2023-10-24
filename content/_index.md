@@ -5,10 +5,32 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Materials Modeling group @NCL
+      subtitle: ''
+      text: <br>
+        
+        Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties.
+    design:
+      columns: '1'
+      # background:
+      #   image: 
+      #     filename: coders.jpg
+      #     filters:
+      #       brightness: 1
+      #     parallax: false
+      #     position: center
+      #     size: cover
+      #     text_color_light: true
+      # spacing:
+      #   padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
   - block: hero
     content:
       title: |
-        MaterialsModeling@NCL
+        Materials Modeling group @NCL
         
       
       text: |
@@ -16,59 +38,59 @@ sections:
         
         Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties.
 
-  - block: slider
-    content:
-      slides:
-        - title: 👋 Welcome to the group
-          content: Take a look at what we're working on...
-          align: center
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: coders.jpg
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
-          align: left
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: contact.jpg
-              filters:
-                brightness: 0.7
-            position: center
-            color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
-          align: right
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: welcome.jpg
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      # Make the slides full screen within the browser window?
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000  
+  # - block: slider
+  #   content:
+  #     slides:
+  #       - title: 👋 Welcome to the group
+  #         content: Take a look at what we're working on...
+  #         align: center
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: coders.jpg
+  #             filters:
+  #               brightness: 0.7
+  #           position: right
+  #           color: '#666'
+  #       - title: Lunch & Learn ☕️
+  #         content: 'Share your knowledge with the group and explore exciting new topics together!'
+  #         align: left
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: contact.jpg
+  #             filters:
+  #               brightness: 0.7
+  #           position: center
+  #           color: '#555'
+  #       - title: World-Class Semiconductor Lab
+  #         content: 'Just opened last month!'
+  #         align: right
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: welcome.jpg
+  #             filters:
+  #               brightness: 0.5
+  #           position: center
+  #           color: '#333'
+  #         link:
+  #           icon: graduation-cap
+  #           icon_pack: fas
+  #           text: Join Us
+  #           url: ../contact/
+  #   design:
+  #     # Slide height is automatic unless you force a specific height (e.g. '400px')
+  #     slide_height: ''
+  #     # Make the slides full screen within the browser window?
+  #     is_fullscreen: true
+  #     # Automatically transition through slides?
+  #     loop: false
+  #     # Duration of transition between slides (in ms)
+  #     interval: 2000  
 
   - block: collection
     content:
