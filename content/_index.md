@@ -49,10 +49,10 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: true
+      loop: false
       # Duration of transition between slides (in ms)
       interval: 500
   # - block: hero
