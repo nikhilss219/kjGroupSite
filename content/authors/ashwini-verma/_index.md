@@ -5,7 +5,7 @@ title: Ashwini Verma
 # Full Name (for SEO)
 first_name: Ashwini
 last_name: Verma
-
+weight: 20
 # Is this the primary user of the site?
 superuser: true
 

@@ -6,6 +6,7 @@ title: Aathira Nair
 first_name: Aathira
 last_name: Nair
 
+weight: 10
 # Is this the primary user of the site?
 superuser: true
 
