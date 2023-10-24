@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shweta Mehta
+title: Poulami Sadhukhan
 
 # Full Name (for SEO)
 first_name: Shweta
