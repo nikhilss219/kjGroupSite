@@ -4,7 +4,7 @@ date: 2023-10-24T12:28:59.108Z
 draft: false
 featured: false
 categories:
-  - research
+  - DFT
 image:
   filename: featured
   focal_point: Smart
