@@ -117,6 +117,7 @@ sections:
       flip_alt_rows: true
   
   - block: collection
+    id: news
     content:
       title: Latest News
       subtitle:
