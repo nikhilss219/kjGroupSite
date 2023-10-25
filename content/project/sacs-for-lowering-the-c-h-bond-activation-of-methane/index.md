@@ -3,10 +3,12 @@ title: SACs for lowering the C-H bond activation of methane
 date: 2023-10-24T12:22:53.778Z
 draft: false
 featured: false
+tags:
+  - DFT
 categories:
   - project
 image:
-  filename: featured
+  filename: graphical.png
   focal_point: Smart
   preview_only: false
 ---
