@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Materials Modeling group @NCL
+      title: Materials Modeling Research Lab
       columns: '1'
   - block: slider
     content:
@@ -20,7 +20,7 @@ sections:
             filename: CO2-MgCu.png
             # filters:
             #   brightness: 0.7
-            fit: cover
+          fit: contain
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -31,7 +31,7 @@ sections:
             filename: Shweta_Mehta_abstract_image.png
             # filters:
             #   brightness: 0.7
-            fit: cover
+          fit: contain
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
@@ -42,7 +42,7 @@ sections:
             filename: shweta_viva.jpg
             # filters:
             #   brightness: 0.5
-            fit: cover
+          fit: contain
           position: center
           color: '#333'
         link:
@@ -52,77 +52,14 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      columns: 2
+      # columns: 2
       slide_height: ''
       is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2500
-  # - block: hero
-  #   content:
-  #     title: |
-  #       Materials Modeling group @NCL
-        
-      
-  #     text: |
-  #       <br>
-        
-  #       Research in our group is driven by a quest to understand the underlying electronic structure of materials and how it affects their properties. We work with DFT based codes and develop machine learning models to predict material properties.
-
-  # - block: slider
-  #   content:
-  #     slides:
-  #       - title: 👋 Welcome to the group
-  #         content: Take a look at what we're working on...
-  #         align: center
-  #         background:
-  #           image:
-  #             # Specify an image from `assets/media/`
-  #             # or delete the image section to remove it
-  #             filename: coders.jpg
-  #             filters:
-  #               brightness: 0.7
-  #           position: right
-  #           color: '#666'
-  #       - title: Lunch & Learn ☕️
-  #         content: 'Share your knowledge with the group and explore exciting new topics together!'
-  #         align: left
-  #         background:
-  #           image:
-  #             # Specify an image from `assets/media/`
-  #             # or delete the image section to remove it
-  #             filename: contact.jpg
-  #             filters:
-  #               brightness: 0.7
-  #           position: center
-  #           color: '#555'
-  #       - title: World-Class Semiconductor Lab
-  #         content: 'Just opened last month!'
-  #         align: right
-  #         background:
-  #           image:
-  #             # Specify an image from `assets/media/`
-  #             # or delete the image section to remove it
-  #             filename: welcome.jpg
-  #             filters:
-  #               brightness: 0.5
-  #           position: center
-  #           color: '#333'
-  #         link:
-  #           icon: graduation-cap
-  #           icon_pack: fas
-  #           text: Join Us
-  #           url: ../contact/
-  #   design:
-  #     # Slide height is automatic unless you force a specific height (e.g. '400px')
-  #     slide_height: ''
-  #     # Make the slides full screen within the browser window?
-  #     is_fullscreen: true
-  #     # Automatically transition through slides?
-  #     loop: false
-  #     # Duration of transition between slides (in ms)
-  #     interval: 2000  
+  
   - block: portfolio
     id: projects
     content:
