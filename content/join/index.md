@@ -10,8 +10,8 @@ sections:
       title: Prospective Students
       subtitle: ''
       text: 'We are ALWAYS looking for highly motivated Ph.D. students interested in computational materials science.
-      The recruitment is through the PhD programme of the [Academy of Scientific and Innovative Research (AcSIR)](https://acsir.res.in/admissions/)
-      {{< figure library="true" src="coders.jpg" title="A caption" >}}'
+      The recruitment is through the PhD programme of the [Academy of Scientific and Innovative Research (AcSIR)](https://acsir.res.in/admissions/)'
+      {{< figure library="true" src="coders.jpg" title="A caption" >}}
     design:
       columns: '1'
     #   background:
