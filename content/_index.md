@@ -20,7 +20,7 @@ sections:
             filename: CO2-MgCu.png
             # filters:
             #   brightness: 0.7
-          fit: contain
+          fit: cover
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -78,9 +78,9 @@ sections:
         - name: All
           tag: '*'
         - name: Machine Learning
-          tag: machineLearning
-        - name: Other
-          tag: Demo
+          tag: ML
+        - name: DFT
+          tag: DFT
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
