@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:Prospective Students
+      title: Prospective Students
       subtitle: ''
-      text: We are ALWAYS looking for highly motivated Ph.D. students interested in computational materials science.The recruitment is through the PhD programme of the [Academy of Scientific and Innovative Research (AcSIR)](https://acsir.res.in/admissions/)
+      text: 'We are ALWAYS looking for highly motivated Ph.D. students interested in computational materials science.The recruitment is through the PhD programme of the [Academy of Scientific and Innovative Research (AcSIR)](https://acsir.res.in/admissions/)'
       
     design:
       columns: '1'
