@@ -20,7 +20,7 @@ sections:
             filename: CO2-MgCu.png
             # filters:
             #   brightness: 0.7
-          fit: contain
+          fit: cover
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -31,7 +31,7 @@ sections:
             filename: Shweta_Mehta_abstract_image.png
             # filters:
             #   brightness: 0.7
-          fit: contain
+          fit: cover
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
@@ -42,7 +42,7 @@ sections:
             filename: shweta_viva.jpg
             # filters:
             #   brightness: 0.5
-          fit: contain
+          fit: cover
           position: center
           color: '#333'
         link:
