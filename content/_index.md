@@ -122,26 +122,26 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: section-1
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: ![alt text](Isolated.png "Title")
-      # Display content from the `content/post/` folder
-      # filters:
-      #   folders:
-      #     - post
-      title: Section 2
-      subtitle: A subtitle
-      text: {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      # columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+  # - block: collection
+  #   id: section-1
+  #   content:
+  #     title: Section 1
+  #     subtitle: A subtitle
+  #     text: ![alt text](Isolated.png "Title")
+  #     # Display content from the `content/post/` folder
+  #     # filters:
+  #     #   folders:
+  #     #     - post
+  #     title: Section 2
+  #     subtitle: A subtitle
+  #     text: {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     # columns: '2'
+  #     # Choose your content listing view - here we use the `showcase` view
+  #     view: showcase
+  #     # For the Showcase view, do you want to flip alternate rows?
+  #     flip_alt_rows: true
   
   - block: collection
     id: news
