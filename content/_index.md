@@ -53,7 +53,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       # columns: 2
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
@@ -104,7 +104,7 @@ sections:
       count: 5
       filters:
         author: ''
-        category: ''
+        category: 'news'
         exclude_featured: false
         publication_type: ''
         tag: ''
